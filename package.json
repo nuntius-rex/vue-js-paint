@@ -1,0 +1,27 @@
+{
+  "name": "vue-js-paint.2",
+  "version": "1.0.0",
+  "description": "Emulating a standard paint program in Vue.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuntius-rex/vue-js-paint.git"
+  },
+  "keywords": [
+    "vue.js",
+    "paint"
+  ],
+  "author": "Dan Guinn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nuntius-rex/vue-js-paint/issues"
+  },
+  "homepage": "https://github.com/nuntius-rex/vue-js-paint#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
